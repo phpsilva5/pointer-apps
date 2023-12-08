@@ -1,4 +1,4 @@
-# Conteúdo do arquivo /home/ec2-user/pointer-apps/pointer-playbook.yml
+# Conteúdo do arquivo /home/ec2-user/pointer-app/pointer-playbook.yml
 ---
 - hosts: localhost
   become: true
